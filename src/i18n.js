@@ -103,7 +103,7 @@ export default {
     dayEventsTitle: 'Tất cả sự kiện',
     notHaveEvents: 'Không có sự kiện nào'
   },
-  en: {
+  cs: {
     dayNames: ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
     monthNames: ["Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Srpen", "Září", "Říjen", "Listopad", "Prosinec"],
     format: 'MM/yyyy',
