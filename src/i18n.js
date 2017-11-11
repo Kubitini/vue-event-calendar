@@ -102,5 +102,13 @@ export default {
     fullFormat: 'dd/MM/yyyy',
     dayEventsTitle: 'Tất cả sự kiện',
     notHaveEvents: 'Không có sự kiện nào'
+  },
+  en: {
+    dayNames: ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
+    monthNames: ["Leden", "Únor", "Březen", "Duben", "Květen", "Červen", "Červenec", "Srpen", "Září", "Říjen", "Listopad", "Prosinec"],
+    format: 'MM/yyyy',
+    fullFormat: 'dd/MM/yyyy',
+    dayEventsTitle: 'Všechny události',
+    notHaveEvents: 'Nic se nekoná'
   }
 }
